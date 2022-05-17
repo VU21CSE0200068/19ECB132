@@ -14,3 +14,5 @@ https://github.com/VU21CSE0200068/19ECB132/blob/main/add%2Cdelete%2Cinsert%20in%
 
 
 https://github.com/VU21CSE0200068/19ECB132/blob/main/admarray.c
+
+https://github.com/VU21CSE0200068/19ECB132/blob/main/binary.c
