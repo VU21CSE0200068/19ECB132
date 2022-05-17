@@ -19,3 +19,6 @@ https://github.com/VU21CSE0200068/19ECB132/blob/main/binary.c
 
 
 https://github.com/VU21CSE0200068/19ECB132/blob/main/evenodd.c
+
+
+https://github.com/VU21CSE0200068/19ECB132/blob/main/palindrome.c
