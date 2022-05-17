@@ -25,3 +25,6 @@ https://github.com/VU21CSE0200068/19ECB132/blob/main/palindrome.c
 https://github.com/VU21CSE0200068/19ECB132/blob/main/Assignment
 
 https://github.com/VU21CSE0200068/19ECB132/blob/main/Theraded%20binary
+
+
+https://github.com/VU21CSE0200068/19ECB132/blob/main/Letter%20count.c
