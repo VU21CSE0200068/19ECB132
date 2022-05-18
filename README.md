@@ -5,14 +5,9 @@
 [SWAP.C](SWAP.C)    
 [ARRAY.C](ARRAY.C)  
 [POSITION.C](POSITION.C)  
-
-[ADMARRY.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/admarray.c)
-
-
-[BINARY.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/binary.c)
-
-
-[EVEN ODD.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/evenodd.c)
+[ADMARRY.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/admarray.c)  
+[BINARY.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/binary.c)  
+[EVEN ODD.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/evenodd.c)  
 
 
 [PALIDROME.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/palindrome.c)
