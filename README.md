@@ -5,3 +5,4 @@
 [SWAP.C](SWAP.C)    
 [ARRAY.C](ARRAY.C)  
 [POSITION.C](POSITION.C)  
+[Binary.c](binary.c). 
