@@ -28,3 +28,7 @@ https://github.com/VU21CSE0200068/19ECB132/blob/main/Theraded%20binary
 
 
 https://github.com/VU21CSE0200068/19ECB132/blob/main/Letter%20count.c
+
+
+
+https://github.com/VU21CSE0200068/19ECB132/blob/main/interlinked.c
