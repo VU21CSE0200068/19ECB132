@@ -32,3 +32,4 @@ https://github.com/VU21CSE0200068/19ECB132/blob/main/Letter%20count.c
 
 
 https://github.com/VU21CSE0200068/19ECB132/blob/main/interlinked.c
+https://github.com/VU21CSE0200068/19ECB132/blob/main/double%20linked.c
