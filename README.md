@@ -1,21 +1,19 @@
 
-[ASSIGNMENT](https://github.com/VU21CSE0200068/19ECB132/blob/main/Assignment)
+[ASSIGNMENT](ASSIGNMENT)  
 
 
-[FIVETABLE.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/Fivetable.c)
+
+[FIVETABLE.C]([FIVETABLE.C)  
+
+[README.C](README.C)
 
 
-[README.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/README.md)
+[SWAP.C](SWAP.C)   
+
+[ARRAY.C](ARRAY.C)
 
 
-[SWAP.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/Swap.c)
-
-
-[ARRAY.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/add%2Cdelete%2Cinsert%20in%20an%20array.c)
-
-
-[POSITION.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/position.c)
-
+[POSITION.C](POSITION.C)
 
 [ADMARRY.C](https://github.com/VU21CSE0200068/19ECB132/blob/main/admarray.c)
 
