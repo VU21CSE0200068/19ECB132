@@ -12,3 +12,4 @@
 [interlinked.c](interlinked.c)   
 [palindrome.c](palindrome.c)   
 [admarray.c](admarray.c)  
+[Lettercount.c](Lettercount.c)  
