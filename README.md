@@ -9,3 +9,4 @@
 [doublelinked.c](doublelinked.c)    
 [Theradedbinary.c](Theradedbinary.c)     
 [Btree.c](Btree.c)   
+[interlinked.c](interlinked.c)  
