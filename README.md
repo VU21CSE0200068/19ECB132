@@ -5,5 +5,5 @@
 [SWAP.C](SWAP.C)    
 [ARRAY.C](ARRAY.C)  
 [POSITION.C](POSITION.C)  
-[Binary.c](binary.c) 
-[double linked.c](double linked.c)  
+[Binary.c](binary.c)   
+[double linked](double linked)  
