@@ -6,3 +6,4 @@
 [ARRAY.C](ARRAY.C)  
 [POSITION.C](POSITION.C)  
 [Binary.c](binary.c) 
+[double linked.c](double linked.c)  
