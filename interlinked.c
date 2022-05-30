@@ -82,3 +82,15 @@ void displayList()
         }
     }
 } 
+Input the number of nodes : 4
+ Input data for node 1 : 5
+ Input data for node 2 : 6
+ Input data for node 3 : 7
+ Input data for node 4 : 8
+
+ Data entered in the list : 
+ Data = 5
+ Data = 6
+ Data = 7
+ Data = 8
+
