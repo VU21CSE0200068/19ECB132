@@ -163,3 +163,5 @@ int main() {
   printf("\n");
   search(11, &ch, root);
 }
+8 9 10 11 15 16 17 18 20 23 
+11 is found
