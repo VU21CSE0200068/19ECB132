@@ -10,4 +10,5 @@
 [Theradedbinary.c](Theradedbinary.c)     
 [Btree.c](Btree.c)   
 [interlinked.c](interlinked.c)   
-[palindrome.c](palindrome.c)  
+[palindrome.c](palindrome.c)   
+[admarray.c](admarray.c)  
