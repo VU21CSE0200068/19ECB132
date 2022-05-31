@@ -13,7 +13,7 @@ int insertSorted(int arr[], int n, int key, int capacity)
     return (n + 1);
 }
   
-int main()
+intmain()
 {
     int arr[20] = { 12, 16, 20, 40, 50, 70 };
     int capacity = sizeof(arr) / sizeof(arr[0]);
@@ -87,3 +87,8 @@ int main()
     for (i = 0; i < n; i++)
         printf("%d  ", arr[i]);
 }
+Array before deletion
+10  20  30  40  50  
+
+Array after deletion
+10  20  40  50  ~/19ECB132-4$ 
