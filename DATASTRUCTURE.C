@@ -132,3 +132,8 @@ int main(void) {
     
   }
 }
+Stack using Array
+2. Queue using Array
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program
