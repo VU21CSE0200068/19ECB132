@@ -11,4 +11,5 @@
 [palindrome.c](palindrome.c)   
 [admarray.c](admarray.c)  
 [Lettercount.c](Lettercount.c)  
-[reversingarray.c](reversingarray.c)  
+[reversingarray.c](reversingarray.c)   
+[transposearray.c](transposearray.c}  
