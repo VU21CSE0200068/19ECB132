@@ -1,7 +1,7 @@
 gcc#include<stdio.h>
 #include<conio.h>
 #include<math.h>
-#include<stdlib.h>
+#include<stdio.h>
 #include<time.h>
 #include<limits.h>
 #include<stdint.h>

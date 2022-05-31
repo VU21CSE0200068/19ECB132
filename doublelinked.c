@@ -241,7 +241,7 @@ void search()
         }  
     }          
 }  
-Choose one option from the following list ...
+choose one option from the following list ...
 ===============================================
 1.Insert in Beginning
 2.Insert at last
