@@ -13,4 +13,4 @@
 [Lettercount.c](Lettercount.c)  
 [reversingarray.c](reversingarray.c)   
 [transposearray.c](transposearray.c)   
-[preordertraversal.c](preordertraversal.c)  
+[linerasearch.c](linerasearch.c)    
