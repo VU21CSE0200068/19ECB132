@@ -13,6 +13,8 @@
 [linerasearch.c](linerasearch.c)    
 [Theradedbinary.C](Theradedbinary.C)  
 [avltree.c](avltree.c)  
-[sumofnaturalnumbers.c]sumofnaturalnumbers.c)  
+[sumofnaturalnumbers.c](sumofnaturalnumbers.c)   
+[assignment.c](assignment.c)  
+
 
 
