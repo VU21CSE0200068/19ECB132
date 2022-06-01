@@ -1,4 +1,4 @@
-gcc#include<stdio.h>
+#include<stdio.h>
 #include<conio.h>
 #include<math.h>
 #include<stdio.h>
