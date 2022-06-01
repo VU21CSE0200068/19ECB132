@@ -11,3 +11,4 @@
 [reversingarray.c](reversingarray.c)   
 [transposearray.c](transposearray.c)   
 [linerasearch.c](linerasearch.c)    
+[Theradedbinary.C](Theradedbinary.C)  
