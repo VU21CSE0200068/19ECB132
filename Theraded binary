@@ -94,3 +94,8 @@ int main()
 	inOrder(root);
 	return 0;
 }
+/*
+output:
+Inorder traversal of created threaded tree is
+4 2 5 1 6 3 7
+*/
