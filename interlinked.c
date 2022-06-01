@@ -82,6 +82,7 @@ void displayList()
         }
     }
 } 
+/*
 Input the number of nodes : 4
  Input data for node 1 : 5
  Input data for node 2 : 6
@@ -93,4 +94,4 @@ Input the number of nodes : 4
  Data = 6
  Data = 7
  Data = 8
-
+*/
