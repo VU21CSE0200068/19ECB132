@@ -20,13 +20,13 @@ int main() {
   printf("After swapping, second number = %.2lf", second);
   return 0;
 }
-~/19ECB132-4$ ./a.out
+/*
 Enter first number: 24
 Enter second number: 57
 
 After swapping, first number = 57.00
-After swapping, second number = 24.00~/19ECB132-4$ ^C
-~/19ECB132-4$ 
+After swapping, second number = 24.00
+*/ 
 
 
 
