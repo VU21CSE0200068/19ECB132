@@ -12,5 +12,7 @@ int main() {
     
     return 0;
 }
+/*
 Enter an integer: 4
 4 is even
+*/
