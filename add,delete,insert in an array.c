@@ -77,7 +77,7 @@ int main()
     }
     return 0;
 }
-19ECB132-3$ ./a.out
+/*
 Enter size of array3
 Enter 1 element1
 Enter 2 element2
@@ -85,5 +85,5 @@ Enter 3 element3
 Enter i to insert/ d to deletei
 Enter element to insert5
 Enter positon2
-1 5 2 3 ~/19ECB132-3$ 
+1 5 2 3  
 */
