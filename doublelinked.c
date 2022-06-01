@@ -240,7 +240,8 @@ void search()
             printf("Item not found\n");  
         }  
     }          
-}  
+}
+/*
 choose one option from the following list ...
 ===============================================
 1.Insert in Beginning
