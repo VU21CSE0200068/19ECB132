@@ -87,8 +87,10 @@ int main()
     for (i = 0; i < n; i++)
         printf("%d  ", arr[i]);
 }
+/*
 Array before deletion
 10  20  30  40  50  
 
 Array after deletion
-10  20  40  50  ~/19ECB132-4$ 
+10  20  40  50  
+*/
