@@ -9,3 +9,10 @@ intmain(void) {
   for (int i=0; i<SIZE+1; i++) 
     printf("%d \t",a[i] );
 }
+/* Output
+a+=5 is 9
+ a-=6 is 3
+ a*=7 is 21
+ a%=2 is 1
+ a/=3 is 0
+*/
