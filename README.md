@@ -12,3 +12,5 @@
 [transposearray.c](transposearray.c)   
 [linerasearch.c](linerasearch.c)    
 [Theradedbinary.C](Theradedbinary.C)  
+[avltree.c](avltree.c)  
+
