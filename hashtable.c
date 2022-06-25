@@ -126,3 +126,17 @@ void main() {
  
 	}while(c == 1);
 }
+/*
+Implementation of Hash Table in C 
+
+MENU-:  
+1.Inserting item in the Hash Table
+2.Removing item from the Hash Table
+3.Check the size of Hash Table
+4.Display a Hash Table
+
+ Please enter your choice :1
+Inserting element in Hash Table
+Enter key:  2
+
+ Key (2) has been inserted*/
