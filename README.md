@@ -15,6 +15,6 @@
 [avltree.c](avltree.c)  
 [sumofnaturalnumbers.c](sumofnaturalnumbers.c)   
 [assignment.c](assignment.c)  
-
+[splaytree.c](splaytree.c)  
 
 
